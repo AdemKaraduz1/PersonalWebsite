@@ -1,0 +1,62 @@
+body{
+    
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container{
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 350px;
+}
+
+.nerd-image{
+    width: 200px;
+    height: 200px;
+}
+
+.pizza-image{
+    width: 180px;
+    height: 180px;  
+}
+
+.desktop-image{
+    width: 180px;
+    height: 180px;  
+}
